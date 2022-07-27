@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'use-case/generic-log/generic_home_view.dart';
+import 'generic_home_view.dart';
 
 void main() {
   runApp(const MyApp());
